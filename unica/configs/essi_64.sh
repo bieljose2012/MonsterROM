@@ -18,7 +18,7 @@
 # MonsterROM configuration file for Exynos devices (essi/essi_64)
 
 # Galaxy S26 (One UI 8.5)
-SOURCE_CODENAME="m1ss"
+SOURCE_CODENAME="m1s"
 SOURCE_FIRMWARE="SM-S942B/XXV/350885180569519"
 SOURCE_EXTRA_FIRMWARES=()
 SOURCE_API_LEVEL=36
